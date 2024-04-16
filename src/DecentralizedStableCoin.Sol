@@ -22,3 +22,15 @@
 // external & public view & pure functions
 
 pragma solidity ^0.8.17;
+
+/*
+* @title DecentralizedStableCoin
+* @author AnshuGarg
+* collateral: Exogenous (ETH & BTC)
+* Minting: Algorithmic
+* Relative Stability: Pegged to USD
+* this is the contract meant to be governed by DSCEEngine. This contract is just the ERC20 implimentation of our stablecoin system .
+*/
+contract DecentralizedStableCoin {
+
+}
