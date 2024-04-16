@@ -1,0 +1,4 @@
+{
+  "solidity.defaultCompiler": "localFile",
+  "solidity.compileUsingLocalVersion": "c:\\Users\\Anshu Garg\\OneDrive\\Desktop\\foundary-defi-stablecoin\\soljson-v0.8.17+commit.8df45f5f.js"
+}
